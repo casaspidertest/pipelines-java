@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/peternijhuis0737/CasaDevOpsProject/_apis/build/status/casaspidertest.pipelines-java?branchName=master)](https://dev.azure.com/peternijhuis0737/CasaDevOpsProject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
